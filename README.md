@@ -1,4 +1,4 @@
-# Beyond the Known Decision Making with Counterfactual Reasoning Decision Transformer
+# [IJCAI 2025] Beyond the Known Decision Making with Counterfactual Reasoning Decision Transformer
 
 CRDT is a framework that enhances Decision Transformers (DT) using counterfactual reasoning to improve offline reinforcement learning. By generating and leveraging counterfactual experiences, CRDT enables better decision-making, particularly in settings with limited or suboptimal data.
 
