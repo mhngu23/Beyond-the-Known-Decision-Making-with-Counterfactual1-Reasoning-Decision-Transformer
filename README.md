@@ -72,7 +72,12 @@ Adding `-w True` will log results to Weights and Biases.
 ## 📄 Citation
 If you use this work, please cite our paper:
 ```
-Nguyen, M. H., Van, L. L. P., Karimpanal, T. G., Gupta, S., & Le, H. (2025). Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer. arXiv preprint arXiv:2505.09114.
+@article{nguyen2025beyond,
+  title={Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer},
+  author={Nguyen, Minh Hoang and Van, Linh Le Pham and Karimpanal, Thommen George and Gupta, Sunil and Le, Hung},
+  journal={arXiv preprint arXiv:2505.09114},
+  year={2025}
+}
 ```
 
 
